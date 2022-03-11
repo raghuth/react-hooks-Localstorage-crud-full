@@ -1,0 +1,74 @@
+.card-grid {
+  background: #f2f2f2;
+  border: 1px solid #e6e6e6;
+  display: flex;
+  height: 14px;
+  text-align: start;
+}
+.MuiButton-contained {
+  margin-top: 24px;
+  color: white;
+  background-color: rgb(25, 118, 210);
+}
+.MuiCard-root .MuiCardHeader-root {
+  display: flex;
+  padding: 24px;
+  align-items: center;
+}
+
+.MuiCardHeader-content .MuiTypography-body1 {
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.MuiCardHeader-content .MuiTypography-colorTextSecondary {
+  color: rgba(0, 0, 0, 0.54);
+  font-weight: bolder;
+  font-size: 11px;
+}
+.MuiCardHeader-content .MuiTypography-root.MuiCardHeader-title.MuiTypography-body2 {
+  font-size: 19px; 
+  line-height: 0;
+  margin-top: 20px;
+}
+
+.MuiCardHeader-root .MuiSvgIcon-root {
+  color: #6914cd;
+}
+
+.MuiFormControl-fullWidth .MuiInput-underline:before {
+  border-bottom: none;
+}
+
+.MuiCardHeader-content .MuiTypography-colorTextSecondary {
+ float: right;
+}
+
+.MuiSvgIcon-root {
+  color: #4a4a4a;
+}
+.right-side-icons .MuiSvgIcon-root {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.m-t-5 {
+  margin-top: 5px;
+}
+.m-r-20 {
+  margin-right: 20px;
+}
+.point {
+  cursor: pointer;
+}
+.delete-icon {
+  color: #eb5b5b;
+}
+.m-b-24{
+  margin-bottom: 24px;
+}
+.p-t-10{
+  padding-top: 10px;
+}
+.SnackbarContent-root .MuiSvgIcon-root {
+  color: white;
+}

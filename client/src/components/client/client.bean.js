@@ -1,0 +1,3 @@
+export class ClientBean {
+    name = '';
+}
