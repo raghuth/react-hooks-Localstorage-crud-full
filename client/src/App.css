@@ -10,3 +10,10 @@ button.m-l-20{
 .text-Align{
   text-align: center;  
 }
+button.delete-icon{
+  color: #ef5c5c;
+}
+ul.MuiList-padding {
+  padding-top: 28px;
+ 
+}
